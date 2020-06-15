@@ -18,7 +18,7 @@
   error:ld returned 1 exit status
   ```
 
-  <img src="C:\Users\81942\AppData\Roaming\Typora\typora-user-images\image-20200616001438267.png" alt="image-20200616001438267"  />
+  <img src="E:\桌面\c++\GreedySnake\GreedySnake\image\2020-6-15.png" alt="image-20200616001438267"  />
 
   可以通过右键`tools.cpp`，点击properties，点build，再勾选
 
