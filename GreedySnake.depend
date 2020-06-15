@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1592235543 source:e:\桌面\c++\greedysnake\greedysnake\main.cpp
+	<iostream>
+	"Point.h"
+
+1592235071 e:\桌面\c++\greedysnake\greedysnake\include\point.h
+
+1592235981 source:e:\桌面\c++\greedysnake\greedysnake\src\point.cpp
+	<iostream>
+	"tools.h"
+	"Point.h"
+
+1592236509 e:\桌面\c++\greedysnake\greedysnake\include\tools.h
+
+1592236509 source:e:\桌面\c++\greedysnake\greedysnake\include\tools.h
+
+1592236560 source:e:\桌面\c++\greedysnake\greedysnake\src\tools.cpp
+	<windows.h>
+	<stdio.h>
+	"tools.h"
+
