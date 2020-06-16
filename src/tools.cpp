@@ -6,7 +6,7 @@ void SetWindowsSize(int cols, int lines)
 {
     system("title GreedySnake");
     char cmd[30];
-    sprintf(cmd, "mode con cols = %d, lines = %d", cols*2, lines);
+    sprintf(cmd, "mode con cols=%d lines=%d", cols*2, lines);
     system(cmd);
 }
 
