@@ -18,7 +18,7 @@
   error:ld returned 1 exit status
   ```
 
-  ![2020-6-15](https://github.com/okJiang/GreedySnake/blob/master/image/2020-6-15.png)
+  ![2020-6-15](https://github.com/okJiang/GreedySnake/blob/master/image/2020-6-15.png?raw=true)
 
   可以通过右键`tools.cpp`，点击properties，点build，再勾选
 
