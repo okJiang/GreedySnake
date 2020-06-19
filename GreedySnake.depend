@@ -1,14 +1,16 @@
 # depslib dependency file v1.0
-1592293608 source:e:\桌面\c++\greedysnake\greedysnake\main.cpp
+1592577741 source:e:\桌面\c++\greedysnake\greedysnake\main.cpp
 	<iostream>
 	<windows.h>
 	"Snake.h"
 	"tools.h"
+	"food.h"
+	"map.h"
 
-1592293045 e:\桌面\c++\greedysnake\greedysnake\include\point.h
+1592583785 e:\桌面\c++\greedysnake\greedysnake\include\point.h
 	<string>
 
-1592293070 source:e:\桌面\c++\greedysnake\greedysnake\src\point.cpp
+1592583785 source:e:\桌面\c++\greedysnake\greedysnake\src\point.cpp
 	<iostream>
 	"tools.h"
 	"Point.h"
@@ -22,12 +24,33 @@
 	<stdio.h>
 	"tools.h"
 
-1592293045 source:e:\桌面\c++\greedysnake\greedysnake\src\snake.cpp
+1592587325 source:e:\桌面\c++\greedysnake\greedysnake\src\snake.cpp
 	<conio.h>
 	<iostream>
 	"Snake.h"
+	<cstring>
+	"map.h"
+	"stdlib.h"
 
-1592293642 e:\桌面\c++\greedysnake\greedysnake\include\snake.h
+1592569471 e:\桌面\c++\greedysnake\greedysnake\include\snake.h
 	<deque>
+	<vector>
+	"Point.h"
+	"food.h"
+
+1592570005 source:e:\桌面\c++\greedysnake\greedysnake\src\food.cpp
+	"food.h"
+	"tools.h"
+	<cstdlib>
+	<iostream>
+
+1592574654 e:\桌面\c++\greedysnake\greedysnake\include\food.h
+	"Point.h"
+
+1592581122 source:e:\桌面\c++\greedysnake\greedysnake\src\map.cpp
+	"map.h"
+
+1592581122 e:\桌面\c++\greedysnake\greedysnake\include\map.h
+	<set>
 	"Point.h"
 

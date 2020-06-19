@@ -1,7 +1,10 @@
 #ifndef SNAKE_H
 #define SNAKE_H
 #include <deque>
+#include <vector>
 #include "Point.h"
+#include "food.h"
+
 
 class Snake
 {
@@ -12,7 +15,7 @@ class Snake
         Snake();
 
         void InitSnake();
-        void move();
+        void move(food* &f);
         bool ChangeDirection();
 
         virtual ~Snake();
